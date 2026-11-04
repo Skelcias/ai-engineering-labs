@@ -1,0 +1,1202 @@
+[
+  {
+    "flags":"BELN",
+    "instruction":"I cannot afford purchase 164",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I understand the financial constraints you are facing and the need to cancel purchase 164. Our goal is to assist you in the best way possible. To proceed with the cancellation, please follow these steps:\n\n1. Sign in to Your Account: Access our https:\/\/my-awesome-shop.com by signing in with your credentials.\n\n2. Navigate to Your Orders: Once you are signed in, locate the ''Manage my orders'' or ''Manage my orders'' section.\n\n3. Find the Relevant Purchase: Look for the purchase associated with the order number 164 and click on it for more details.\n\n4. Initiate Cancellation: You will see an option labeled ''Manage my orders'.' Please select this option to begin the cancellation process.\n\n5. Complete the Cancellation: Follow any further instructions or prompts to complete the cancellation successfully.\n\nIf you encounter any issues or have any questions during the process, please don't hesitate to contact our dedicated customer support team during Monday - Friday, 9:00 AM - 6:00 PM. You can reach us at +33 5 56 00 00 00 or use the Live Chat feature on our website at https:\/\/my-awesome-shop.com. We are committed to your satisfaction and will do our best to assist you.",
+    "expected":{
+      "order_id":164
+    }
+  },
+  {
+    "flags":"BCELV",
+    "instruction":"I have bought some item, I have to cancel order 7",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I recognize that you've recently made a purchase and now wish to cancel the order with the order number 7. I apologize for any inconvenience this may have caused. To proceed with the cancellation, please follow these steps:\n\n1. Sign in to Your Account: Access our platform by logging in to your https:\/\/my-awesome-shop.com.\n2. Find Your Order History: Once logged in, navigate to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Locate Your Purchase: Look for the specific purchase associated with the order number 7 and click on it.\n4. Initiate Cancellation: Within the purchase details, you should find an option labeled ''Manage my orders''. Please select this option.\n5. Confirm Cancellation: The system may request additional information or confirmation before finalizing the cancellation. Kindly provide any required details or follow the prompts to proceed.\n\nIf you encounter any difficulties or need further assistance during the cancellation process, please don't hesitate to reach out to our dedicated support team. They are available during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through the Live Chat feature on our website at https:\/\/my-awesome-shop.com. Your satisfaction is our priority, and we're here to help you every step of the way.",
+    "expected":{
+      "order_id":7
+    }
+  },
+  {
+    "flags":"BCELN",
+    "instruction":"I do not want this item, cancel order 71",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've observed that you no longer want the item associated with the order number 71. I apologize for any inconvenience this may have caused. Let's proceed with canceling your order to ensure your satisfaction. Here's what you need to do:\n\n1. Sign into Your Account: Log in to your https:\/\/my-awesome-shop.com.\n2. Access Your Orders: Go to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Locate the Order: Look for the order with the number 71 and click on it.\n4. Initiate Cancelation: You will find a ''Manage my orders'' option associated with your purchase. Please select it.\n5. Confirm the Cancellation: Follow any additional prompts or provide feedback as required to complete the cancellation process.\n\nIf you have any further questions or encounter any hiccups along the way, our dedicated support team is available to assist you. You can reach out to us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or use the Live Chat feature on our https:\/\/my-awesome-shop.com. Your satisfaction is our top priority, and we are here to ensure a seamless experience for you.",
+    "expected":{
+      "order_id":71
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I need assistance with canceling purchase 58",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I'm attuned to the idea that you require assistance with canceling your purchase associated with the order number 58. Rest assured, I am here to guide you through the cancellation process. Here's what you need to do:\n\n1. Log into Your Account: Access our platform by signing in to your https:\/\/my-awesome-shop.com.\n2. Navigate to the Order Management Section: Once logged in, locate the section for managing your orders, such as ''Manage my orders'' or ''Manage my orders''.\n3. Locate the Specific Purchase: Within the order management section, you should be able to find the purchase linked to the order number 58. Click on it to access the details.\n4. Initiate the Cancellation: Look for the option labeled ''Manage my orders'' associated with your purchase. Please select this to begin the cancellation process.\n5. Follow any Additional Steps: Depending on our cancellation policy, there might be additional steps involved, such as providing a reason for cancellation or confirming your decision. Please complete these steps as instructed.\n6. Confirmation and Refund: Once the cancellation is successfully processed, you should receive a confirmation message, and any refunds or reimbursements will be initiated according to our refund policy.\n\nIf you encounter any obstacles or have further questions during the cancellation process, our dedicated support team is available to assist you. Feel free to contact us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through the Live Chat feature on our https:\/\/my-awesome-shop.com. Your satisfaction is our top priority, and we want to ensure that your cancellation experience goes smoothly.",
+    "expected":{
+      "order_id":58
+    }
+  },
+  {
+    "flags":"BILQZ",
+    "instruction":"were can i cancel purchase 189",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I realized, you're looking for the information on where to cancel purchase 189. Allow me to guide you through the process:\n\n1. Sign into Your Account: Access our platform by signing in to your https:\/\/my-awesome-shop.com.\n2. Navigate to Your Orders: Once logged in, head over to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Find Your Order: Look for the purchase with the order number 189.\n4. Initiate Cancellation: You should see an option labeled ''Manage my orders'' associated with your purchase. Click on it.\n5. Complete Any Further Steps: If prompted, answer any questions or provide the necessary feedback to facilitate the cancellation process.\n\nIf you encounter any difficulties or have further questions, our dedicated team is available during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or via Live Chat on our https:\/\/my-awesome-shop.com. Rest assured, we're here to assist you in every step towards your satisfaction.",
+    "expected":{
+      "order_id":189
+    }
+  },
+  {
+    "flags":"BQ",
+    "instruction":"want assistance to cancel order 174",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've understood, you're seeking assistance with canceling your order linked to the number 174. I apologize for any inconvenience caused, and rest assured, I'm here to help you navigate through this process. Here's what you can do:\n\n1. Follow our Cancellation Process: Log into your https:\/\/my-awesome-shop.com using your credentials.\n2. Locate Your Order: Once logged in, head to the ''Manage my orders'' or ''Manage my orders'' section to find the relevant purchase.\n3. Initiate the Cancellation: Click on the order number associated with purchase 174 and look for the ''Manage my orders'' option. Go ahead and select it.\n4. Confirm and Provide Feedback: The system may ask you to confirm the cancellation and provide any feedback you might have.\n\nIf you encounter any difficulties or have further questions, don't hesitate to reach out to our dedicated support team. They are available during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through the Live Chat feature on our website at https:\/\/my-awesome-shop.com. We value your satisfaction and are committed to assisting you every step of the way.",
+    "expected":{
+      "order_id":174
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I don't know what to do to cancel purchase 140",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I hear you loud and clear your confusion about canceling purchase 140. Don't worry, I'm here to assist you with the process. To cancel your purchase, follow these simple steps:\n\n1. Sign into your account: Log in to your https:\/\/my-awesome-shop.com using your credentials.\n2. Locate the order details: Navigate to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Find the specific purchase: Look for the purchase with the order number 140 and click on it to access the details.\n4. Initiate the cancellation: Within the order details, you should see an option labeled ''Manage my orders'' or a similar term. Click on it to proceed with the cancellation request.\n5. Confirmation and feedback: The system may ask you to confirm the cancellation or provide feedback. Please follow the prompts and complete the necessary steps.\n\nIf you encounter any difficulties or have further questions during the process, our dedicated team is available during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00. You can also reach us through the Live Chat feature on our https:\/\/my-awesome-shop.com. Your satisfaction is our priority, and we're here to help make this cancellation process as smooth as possible.",
+    "expected":{
+      "order_id":140
+    }
+  },
+  {
+    "flags":"BCELNQ",
+    "instruction":"i cannot pay for my last item cancel order 152",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've noticed that you're facing difficulties in paying for your last item and need assistance with canceling order 152. It can be frustrating when financial constraints prevent us from completing a purchase. Allow me to help you with this. \n\nTo cancel your order, please follow these steps:\n\n1. Log in to your https:\/\/my-awesome-shop.com using your username and password.\n2. Navigate to your order history or account settings page.\n3. Locate the specific order with the order number 152.\n4. Click on the order to access the details.\n5. Look for the option to cancel the order and select it.\n6. Confirm the cancellation and follow any additional prompts if necessary.\n\nIf you encounter any issues or have further questions, feel free to reach out to our customer support team. They are available during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through live chat on our https:\/\/my-awesome-shop.com. We are committed to assisting you throughout this process and ensuring your satisfaction.",
+    "expected":{
+      "order_id":152
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I want help to cancel purchase 9",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I'm with you that you are seeking assistance with canceling your purchase with the order number 9. Our team is here to help guide you through the process and ensure a seamless experience. Here's what you need to do:\n\n1. Log into Your Account: Start by signing into your https:\/\/my-awesome-shop.com.\n2. Access Your Order History: Once logged in, navigate to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Locate the Purchase: Look for the specific purchase associated with the order number 9. Click on it to view the details.\n4. Initiate the Cancellation: You should see an option labeled ''Manage my orders'' associated with your purchase. Please select this to proceed with the cancellation.\n5. Confirm the Cancellation: Our system may ask you to confirm the cancellation or gather some feedback. Kindly complete any necessary steps.\n\nIf you encounter any difficulties or have further questions throughout the process, our dedicated team is available to assist you. You can reach us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or engage in a live chat on our website at https:\/\/my-awesome-shop.com. Your satisfaction is our priority, and we appreciate your trust in our services.",
+    "expected":{
+      "order_id":9
+    }
+  },
+  {
+    "flags":"BLZ",
+    "instruction":"I need help with cancelling purhase 24",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I'm sensitive to the fact that you need assistance with cancelling purchase 24. I apologize for any inconvenience this may have caused. To cancel your purchase, please follow these steps:\n\n1. Log into your account: Access our https:\/\/my-awesome-shop.com and sign in using your credentials.\n2. Navigate to your orders: Once signed in, go to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Locate your purchase: Look for the purchase associated with the order number 24 and click on it for more details.\n4. Initiate cancellation: Within the purchase details, you will find an option to ''Manage my orders''. Please select this option.\n5. Confirm cancellation: The system may ask for your confirmation or feedback to complete the cancellation process. Kindly provide the necessary information.\n\nIf you encounter any difficulties or have further questions, do not hesitate to contact our dedicated support team. You can reach us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through the Live Chat feature on our website at https:\/\/my-awesome-shop.com. We value your satisfaction and are here to assist you every step of the way.",
+    "expected":{
+      "order_id":24
+    }
+  },
+  {
+    "flags":"BIQZ",
+    "instruction":"whag do i need to do to cancel order 60",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I get it that you're uncertain about the steps required to cancel order 60. Allow me to provide you with the guidance you need:\n\n1. Sign in to Your Account: Start by logging in to your https:\/\/my-awesome-shop.com using your credentials.\n2. Locate Your Orders: Once you're logged in, navigate to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Find the Relevant Order: Look for the order with the number 60 and click on it for more details.\n4. Initiate the Cancellation: Within the order details, you should find an option labeled ''Manage my orders''. Please select this to begin the cancellation process.\n5. Complete Any Additional Steps: Our system might prompt you with a few questions or ask for feedback. Kindly provide the necessary information to proceed.\n\nShould you encounter any difficulties or have further queries along the way, feel free to reach out to our dedicated support team. They are available during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through the Live Chat feature on our website at https:\/\/my-awesome-shop.com. We appreciate your trust in our service, and we're here to ensure your satisfaction.",
+    "expected":{
+      "order_id":60
+    }
+  },
+  {
+    "flags":"BLZ",
+    "instruction":"cancel purchase  144",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've realized that you would like to cancel your purchase with the order number 144. Our team is here to assist you with this process. To cancel your purchase, please follow these steps:\n\n1. Sign in to your https:\/\/my-awesome-shop.com using your registered credentials.\n2. Navigate to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Look for the purchase with the order number 144.\n4. Click on the purchase to access the details.\n5. Locate the ''Manage my orders'' option associated with the purchase.\n6. Select the option to initiate the cancelation process.\n7. Complete any additional steps or provide feedback as required by the system.\n\nIf you encounter any difficulties or have further questions, our dedicated support team is available during Monday - Friday, 9:00 AM - 6:00 PM. You can reach us at +33 5 56 00 00 00 or through the Live Chat feature on our https:\/\/my-awesome-shop.com.\n\nWe appreciate your understanding, and we're here to provide assistance every step of the way.",
+    "expected":{
+      "order_id":144
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"help me to cancel purchase 184",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I'm aware that you need assistance with canceling your purchase with the order number 184. I apologize for any inconvenience this may have caused you. To cancel your purchase, please follow these steps:\n\n1. Log in to your https:\/\/my-awesome-shop.com using your credentials.\n2. Proceed to the ''Manage my orders'' or ''Manage my orders'' section.\n3. Look for the purchase associated with the order number 184 and click on it.\n4. You will see an option labeled ''Manage my orders''. Please select this option to initiate the cancellation process.\n5. The system may ask for additional information or confirmation. Kindly follow the prompts and provide the necessary details.\n6. Once the cancellation is processed, you will receive a confirmation email or notification.\n\nIf you encounter any difficulties or have any further questions, our dedicated customer support team is available Monday - Friday, 9:00 AM - 6:00 PM to assist you. You can reach us at +33 5 56 00 00 00 or through the Live Chat feature on our https:\/\/my-awesome-shop.com. Please don't hesitate to contact us. We are here to help ensure your satisfaction.",
+    "expected":{
+      "order_id":184
+    }
+  },
+  {
+    "flags":"BCL",
+    "instruction":"I bought some item, cancel purchase 57",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've picked up that you recently made a purchase and now would like to cancel the order with the purchase number 57. I apologize for any inconvenience this may cause. To assist you with the cancellation process, please follow these steps:\n\n1. Sign into Your Account: Access our platform by signing in to your https:\/\/my-awesome-shop.com.\n2. Navigate to Your Orders: Once logged in, locate the ''Manage my orders'' or ''Manage my orders'' section.\n3. Find Your Order: Within this section, locate the purchase with the order number 57 and click on it for more details.\n4. Initiate Cancellation: Look for the option labeled ''Manage my orders'' associated with your purchase. Please select it to proceed with cancelling the order.\n5. Complete Any Further Steps: The system may ask you a few questions to confirm the cancellation or provide feedback. Please follow the instructions provided.\n\nIf you encounter any difficulties or have further questions throughout the process, our dedicated customer support team is available to assist you. You can reach out to us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through the Live Chat feature on our https:\/\/my-awesome-shop.com. Your satisfaction is our priority, and we appreciate your understanding.",
+    "expected":{
+      "order_id":57
+    }
+  },
+  {
+    "flags":"BEL",
+    "instruction":"I do not know what to do to cancel purchase 151",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"Thank you for getting in touch to us for assistance with canceling purchase 151. I'm here to guide you through the process. To cancel your purchase, please follow these steps:\n\n1. Sign into your account: Access our platform by logging into your https:\/\/my-awesome-shop.com.\n2. Navigate to your order history: Once logged in, find the ''Manage my orders'' or ''Manage my orders'' section.\n3. Locate your purchase: Look for the purchase associated with the order number 151 and click on it for more details.\n4. Initiate the cancellation: Within the order details, you should see an option labeled ''Manage my orders''. Please select that to start the cancellation process.\n5. Confirm and complete the cancellation: Our system may ask you a few questions or require some additional information to finalize the cancellation. Please provide the necessary details as prompted.\n\nIf you encounter any difficulties or have more questions along the way, our dedicated support team is available to help. You can reach us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through the Live Chat on our website at https:\/\/my-awesome-shop.com. We value your satisfaction and will do our best to assist you promptly.",
+    "expected":{
+      "order_id":151
+    }
+  },
+  {
+    "flags":"BZ",
+    "instruction":"I need assistancde cancelling order 208",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've noticed that you require assistance with canceling your order with the order number 208. Our team is ready to help you with this process. To proceed with the cancellation, please follow these steps:\n\n1. Log in to your https:\/\/my-awesome-shop.com using your credentials.\n2. Navigate to the ''Manage my orders'' or ''Manage my orders'' section, where you can find a list of your previous purchases.\n3. Locate the specific purchase associated with the order number 208 and click on it to access the details.\n4. Look for the option labeled ''Manage my orders'' and select it.\n5. The system may prompt you to confirm the cancellation or provide feedback. Please follow the instructions accordingly.\n\nShould you encounter any difficulties or have further questions, our dedicated support team is available to assist you. You can reach us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or by using our live chat feature on our https:\/\/my-awesome-shop.com. We are here to ensure your satisfaction and provide the help you need.",
+    "expected":{
+      "order_id":208
+    }
+  },
+  {
+    "flags":"BILP",
+    "instruction":"how could I cancel purchase 195?",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've picked up that you are looking for guidance on canceling your purchase with the order number 195. Rest assured, I'll provide you with the necessary steps to proceed with the cancellation:\n\n1. Sign into Your Account: Begin by logging into your https:\/\/my-awesome-shop.com using your credentials.\n2. Visit the Order Page: Once logged in, navigate to the ''Manage my orders'' or ''Manage my orders'' section of your account.\n3. Locate the Purchase: Look for the purchase associated with the order number 195 and click on it to access the details.\n4. Initiate the Cancellation: On the purchase page, you should find an option labeled ''Manage my orders''. Click on it to start the cancellation process.\n5. Confirm the Cancellation: The system may request a final confirmation from you. Please follow the instructions provided to complete the cancellation.\n\nIf you encounter any difficulties or have further questions, our attentive support team is available during Monday - Friday, 9:00 AM - 6:00 PM. Feel free to reach out by calling +33 5 56 00 00 00 or utilizing the live chat feature on our https:\/\/my-awesome-shop.com. Your satisfaction is our priority, and we're here to assist you every step of the way.",
+    "expected":{
+      "order_id":195
+    }
+  },
+  {
+    "flags":"BCINZ",
+    "instruction":"I doln't want order 179, can you cancel it?",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I'm following you that you no longer want to proceed with your order with the order number 179. I apologize for the inconvenience caused. To cancel your order, please follow these steps:\n\n1. Log in to your https:\/\/my-awesome-shop.com.\n2. Go to the \"'Manage my orders'\" or \"'Manage my orders'\" section.\n3. Locate your order with the order number 179.\n4. Click on the order to access the details.\n5. Look for the \"'Manage my orders'\" option and select it.\n6. Follow any additional instructions or prompts to complete the cancellation process.\n\nIf you encounter any difficulties or have any questions, our dedicated team is ready to assist you. You can reach out to us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or use the Live Chat feature on our https:\/\/my-awesome-shop.com. We appreciate your understanding and thank you for choosing our services.",
+    "expected":{
+      "order_id":179
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"want assistance canceling purchase 88",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've become conscious that you're seeking assistance in canceling your purchase with the order number 88. We apologize for any inconvenience caused by this situation. To cancel your purchase, please follow these steps:\n\n1. Log into your https:\/\/my-awesome-shop.com.\n2. Navigate to your \"'Manage my orders'\" or \"'Manage my orders'\" section.\n3. Locate the purchase associated with the order number 88 and click on it for more details.\n4. Look for the \"'Manage my orders'\" option linked to your purchase and click on it.\n5. Follow any additional prompts or confirmations to complete the cancellation process.\n\nIf you encounter any difficulties or have further questions, please feel free to reach out to our dedicated customer support team during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00. We're also available to assist you through the Live Chat feature on our website at https:\/\/my-awesome-shop.com.\n\nWe appreciate your understanding, and we're here to help ensure a smooth resolution for you.",
+    "expected":{
+      "order_id":88
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I need assistance canceling purchase 40",
+    "category":"ORDER",
+    "intent":"cancel_order",
+    "response":"I've picked up that you need assistance with canceling your purchase with the order number 40. Your satisfaction is our utmost priority, and I'm here to help you through the process. To cancel your purchase, please follow these steps:\n\n1. Sign in to Your Account: Start by logging in to your https:\/\/my-awesome-shop.com using your credentials.\n2. Access Your Orders: Navigate to the ''Manage my orders'' or ''Manage my orders'' section, where you can view your recent purchases.\n3. Locate Your Purchase: Look for the specific purchase with the order number 40 and click on it for more details.\n4. Initiate Cancellation: You should find the option labeled ''Manage my orders'' associated with your purchase. Please select this to proceed with the cancellation.\n5. Confirm the Cancellation: The system may require you to provide additional information or confirm your decision. Kindly follow the prompts to complete the cancellation process.\n\nIf you encounter any difficulties or have further questions during the cancellation process, our dedicated team is available to provide assistance. You can reach us during Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or via the Live Chat feature on our https:\/\/my-awesome-shop.com. We appreciate your understanding, and we'll do our best to ensure a seamless experience for you.",
+    "expected":{
+      "order_id":40
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I try to edit my address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"Absolutely! To edit your address, you can go to your account settings and select the option to update your shipping address. Alternatively, you can reach out to our customer service team, and they will be glad to assist you with making the necessary changes.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I want to know about correcting the address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"Unquestionably! If you need to correct your shipping address, we can assist you with that. Please provide us with the correct address details, and we will update it for you.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLW",
+    "instruction":"I have an error updating my fucking shipping address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I apologize for any frustration caused by the error you encountered while trying to update your shipping address. Please provide me with your order details and the correct shipping address, and I'll personally ensure that your information is updated promptly.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BCL",
+    "instruction":"I entered a wrong delivery address, help me editing it",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"No problem! If you have entered the wrong delivery address, we can definitely help you edit it. Please reach out to our customer support team with your order details and the correct address, and they will assist you in making the necessary changes.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"i have a problem correcting the address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I apologize for the inconvenience. If you are experiencing any difficulties while trying to correct your address, please contact our customer support team for immediate assistance. They will be able to help you resolve the issue promptly.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I have an error updating my address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"Oh no! I'm sorry to hear that you're facing an error while trying to update your address. Could you please provide more details about the error message or the steps you have taken so far? This will help us better understand the issue and provide you with the appropriate solution.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BCIL",
+    "instruction":"I have entered a wrong address by mistake, how do I edit it?",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"No worries! If you have accidentally entered the wrong address, you can easily edit it. Simply log in to your account on our website and navigate to the delivery address section. From there, you should be able to update or modify your address information. If you need any further assistance, feel free to reach out to our customer support team.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"assistance trying to modify the address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I'm sorry to hear that you're having trouble modifying your address. I can certainly assist you with that. Could you please provide me with the current and the desired address?",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILQ",
+    "instruction":"can ya tell me more about changing the address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I'll take care of it! If you need help with changing your address, our customer support team can assist you in updating your shipping information. You can also find step-by-step instructions on our website's FAQ section on how to modify your delivery address. Don't hesitate to reach out to us for any further assistance!",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLM",
+    "instruction":"supports editing the address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"For sure! We offer full support for editing your shipping address. Whether you need to correct a mistake or update your address, we're here to assist you every step of the way. Just provide us with the necessary information, and we'll make sure your delivery gets to the correct location.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I have to modify my delivery address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I catch on to the fact that you need to modify your delivery address. I will help you with that. Can you please provide me with the new address you would like to use for delivery?",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"there is a problem trying to edit the address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I'm sorry to hear that you're experiencing difficulties in editing your address. Can you please provide more details about the problem that you're encountering? This way, I'll be able to assist you better in resolving the issue.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BEL",
+    "instruction":"I am trying to find information about editing the address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I'll take care of it! I can provide you with the information you need to edit your address. To update your address, you can log in to your account and navigate to the \"My Account\" section. From there, you should be able to find an option to edit your shipping address. If you're unable to locate it, you can also reach out to our customer support team, and they will assist you in updating your address.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"i need help trying to correct my shipping address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"We are here to assist you in correcting your shipping address. Please provide us with the necessary details, such as your current address and the correct address you wish to update it to, and our customer support team will guide you through the process.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BEL",
+    "instruction":"I do not know what I have to do to edit the address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"No worries! I can guide you through the process of editing your address. To update your address, please follow these steps: \n1. Log into your account on our website.\n2. Go to the \"My Account\" or \"Profile\" section.\n3. Locate the \"Shipping Address\" option.\n4. Click on \"Edit\" or \"Update\" next to your current address.\n5. Enter the new address details and make sure to save the changes.\nIf you encounter any difficulties or have any further questions, feel free to reach out to our customer support team for assistance. We're here to help!",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I want assistance to modify the shipping address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"For sure! If you need help with modifying your shipping address, our dedicated customer support team is available to assist you. Simply reach out to us via live chat or phone, and we'll guide you through the process. We're here to make sure your address is updated accurately and efficiently.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLM",
+    "instruction":"I want supports changing my delivery address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I'll get right on it! We are here to assist you with changing your delivery address. Please provide us with the new address details, including the street number, city, state, and postal code, so that we can update it for you.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLM",
+    "instruction":"I want supports correcting my shipping address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I apologize for the inconvenience caused. I'm here to assist you in correcting your shipping address. Please provide me with the incorrect address and the correct address, and I will help you make the necessary changes.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLMW",
+    "instruction":"I have problems correcting the goddamn address",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"We apologize for the inconvenience you're experiencing while trying to edit your shipping address. Can you please provide us with more details about the specific issues you're encountering? This will help us assist you better and find a solution to resolve the problem.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BIL",
+    "instruction":"where can I find information about changing my address?",
+    "category":"SHIPPING",
+    "intent":"change_shipping_address",
+    "response":"I'm on it! If you need information about changing your address, you can visit our website's FAQs section or contact our customer support team. They will be more than happy to assist you with any address changes or updates you need to make.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BCLQZ",
+    "instruction":"the experience with ya was awful i have to  lodge a claim",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm truly sorry to hear that your experience with us was unpleasant and that you feel the need to lodge a claim. Your feedback is incredibly important to us and we take it seriously. Would you mind sharing the details of your experience and the specific issues you faced? This will help us investigate the matter thoroughly and work towards a satisfactory resolution. We appreciate your patience and cooperation in this process.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLZ",
+    "instruction":"I want assistance to make an customer reclamation",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm sorry to hear that you need assistance in making a customer reclamation. Your feedback is crucial to us, and we take your concerns very seriously. To ensure that your reclamation is handled properly, I suggest reaching out to our customer support team directly. They will guide you through the process, listen attentively to your concerns, and work towards finding a suitable resolution. You can contact them through our helpline at +33 5 56 00 00 00 or via email at support@my-awesome-shop.com. They are well-equipped to provide you with the necessary assistance and address any questions or issues you may have. We appreciate your feedback and are committed to improving our services based on customer experiences like yours.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILQ",
+    "instruction":"can ya help me lodge a claim against ur organization",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm clearly cognizant your need for assistance in lodging a claim against our organization. I apologize for any inconvenience or dissatisfaction you may have experienced, and I'm here to help you through the process. To proceed with lodging a claim, could you please provide me with some details about the issue you encountered? Any relevant information, such as order numbers, dates, or descriptions of the problem, will greatly assist us in addressing your concern efficiently and effectively. Rest assured that your feedback is of utmost importance to us, and we are committed to resolving any issues you may have faced.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"assistance to file a reclamation",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm aware that you need assistance in filing a reclamation. I apologize for any inconvenience you may have experienced and I appreciate you bringing this matter to our attention. It is important for us to address your concerns in a timely and effective manner. To ensure that your reclamation is properly filed, I recommend reaching out to our customer support team. They will guide you through the process and provide you with the necessary information and forms required for filing the reclamation. Our team is committed to resolving the issue and working towards your satisfaction. Please let me know if there is anything else I can assist you with.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"help me file a customer complaint against your company",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I deeply apologize for any negative experience you may have had with our company. Your feedback is extremely valuable to us as it allows us to identify areas for improvement and ensure that such incidents do not reoccur. To file a customer complaint, I recommend reaching out to our dedicated customer support team either through our hotline at +33 5 56 00 00 00 or via email at support@my-awesome-shop.com. They will guide you through the process and address your concerns promptly. Rest assured, we take all complaints seriously and will make every effort to resolve them satisfactorily. Thank you for bringing this matter to our attention.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I want help to file a reclamation against your company",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm truly sorry to hear that you're dissatisfied and need help filing a reclamation against our company. Your feedback is of utmost importance to us, and we take it seriously. To ensure that your concerns are properly addressed, I kindly request that you provide me with the details of your complaint. This will enable us to thoroughly investigate the matter and take appropriate actions moving forward. We are committed to resolving this issue for you and appreciate your patience and cooperation.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"wanna make a customer claim against ur business",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm sorry to hear that you need to make a customer claim against our business. Your feedback is important to us, and I appreciate the opportunity to assist you. To ensure we handle your claim effectively, could you please provide me with the details of your claim? This will help us better understand your concerns and take appropriate action to address them. I assure you that we take customer claims seriously and are committed to resolving them in a fair and timely manner. How can I best assist you with your claim?",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I try to file a complaint against your organization",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm sorry to learn that you've had a negative experience with our organization and feel the need to file a complaint. Your feedback is highly valuable to us as it helps us identify areas for improvement and ensure customer satisfaction. To assist you with this process and address your concerns effectively, please provide me with the specific details of your complaint, including any relevant incidents, dates, or individuals involved. Rest assured, your complaint will be treated with the utmost seriousness, and we will do our best to resolve the issue to your satisfaction. Thank you for bringing this matter to our attention.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I need to lodge a claim against your organization",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm truly sorry to hear that you're dissatisfied and need to lodge a claim against our organization. Your experience matters to us, and I want to provide you with the necessary support. To ensure a smooth process, could you please provide me with more details about your claim? This will help me understand the situation better and assist you effectively.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILQ",
+    "instruction":"can ya help me making a claim against ur business",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm here to assist you in making a claim against our business. I apologize for any negative experience you may have encountered, and I want to address your concerns promptly. To better understand the situation, could you please provide me with the details of your claim? Your feedback is essential to us, and it will be shared with the appropriate team for further investigation. Together, we can work towards finding a resolution and improving our services. How can I best assist you with your claim?",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILPQZ",
+    "instruction":"could i file a revlamation against ur organization",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm sorry to hear that you would like to file a reclamation against our organization. We take complaints seriously and strive to address any concerns promptly and effectively. To initiate the reclamation process, I recommend reaching out to our customer support team directly. They will guide you through the necessary steps and collect all the relevant information to ensure your complaint is properly documented and handled. Please let me know if there is anything else I can assist you with.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BCLQZ",
+    "instruction":"the eperience with ya was bad help me to lodge a reclamation",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm truly sorry to hear that your experience with our organization was unsatisfactory. Please know that we take customer feedback very seriously, and I empathize with your desire to lodge a reclamation. To assist you further, I kindly request additional details about the specific issue you encountered. Understanding the root of the problem will enable us to address your concerns more effectively and provide you with the appropriate support. Thank you for bringing this matter to our attention, and we appreciate your patience as we work towards a resolution.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BEL",
+    "instruction":"I do not know what I need to do to make a consumer claim",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I've grasped that you're unsure about the process of making a consumer claim. I'm here to help guide you through it. To begin, it's important to gather all relevant information related to the claim, such as receipts, invoices, or any documentation that supports your claim. Once you have collected this information, you can typically file a complaint with the appropriate consumer protection agency or regulatory authority. It's essential to familiarize yourself with the specific procedures and requirements of your jurisdiction to ensure you follow the correct steps. If you provide me with your location, I can provide more specific guidance tailored to your region. Rest assured, I'm here to assist you every step of the way.\"",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQZ",
+    "instruction":"need to make a consumere claim",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I want to assure you that we take consumer claims very seriously, and I'm here to guide you through the process. To start, could you please provide me with some details about your claim? This will allow me to understand the situation better and provide you with the necessary assistance. Your feedback is highly valued, and we are committed to resolving any issues you may have. Let's work together to address your consumer claim and find a satisfactory resolution.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"filing consumer reclamation against your business",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm sorry to hear that you're considering filing a consumer reclamation against our business. It's important to us that we address your concerns and provide you with the assistance you need. To proceed with filing a consumer reclamation, I recommend reaching out to our customer support team directly. They will be able to guide you through the process and ensure that all necessary steps are taken to address your concerns. Our team is dedicated to resolving any issues you may have, and your feedback is invaluable in helping us improve our products and services. Please let me know if there is anything else I can assist you with.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILQ",
+    "instruction":"can uhelp me lodge a claim against ur business",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm not mistaken your need to lodge a claim against our business, and I'm here to assist you with that process. Your satisfaction is our priority, and we take all customer concerns seriously. Could you please provide me with the details of your claim, including any supporting documentation or evidence? This will help us thoroughly review your case and work towards a resolution. Rest assured that we will handle your claim with the utmost care and attention it deserves.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I need help lodging a consumer claim",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm sorry to hear that you need assistance in lodging a consumer claim. I understand that this can be a frustrating situation, and I'm here to help guide you through the process. To ensure that your claim is properly handled, please provide me with the specific details of your claim and any supporting documentation you may have. Our team will thoroughly review your claim and take the necessary steps to address your concerns. Rest assured that we are committed to resolving this matter in a fair and timely manner.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILZ",
+    "instruction":"how to make an reclamation against your company?",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I'm sorry to hear that you're looking to make a complaint against our company. We understand that mistakes happen and situations may arise where you feel the need to voice your concerns. To ensure that your complaint is properly addressed, we have a dedicated customer support team that is trained to handle such matters. I encourage you to reach out to our customer support team either through our website or by calling our helpline. They will guide you through the process and gather all the necessary information to begin the investigation into your complaint. We take your feedback seriously and strive to improve our services based on your valuable insights.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BELZ",
+    "instruction":"I do not know what I have to do to make a customer lcaim",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I can sense that you're uncertain about the process of filing a customer claim. I'm here to guide you through it. To initiate a customer claim, you can start by contacting our customer support team. They are available Monday - Friday, 9:00 AM - 6:00 PM at +33 5 56 00 00 00 or through the Live Chat on our website at https:\/\/my-awesome-shop.com. They will assist you with the necessary steps and provide you with the required forms or documentation to submit your claim. Please rest assured that we take customer claims seriously, and we're committed to resolving any issues you may have. Is there anything else I can assist you with?",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"assistance lodging a customer complaint against your company",
+    "category":"FEEDBACK",
+    "intent":"complaint",
+    "response":"I understand the need for assistance in lodging a customer complaint against our company. I genuinely apologize for any dissatisfaction you may have experienced, and I'm here to address your concerns promptly. Please provide me with the details of your complaint so that I can ensure it is properly documented and forwarded to the appropriate team for review. Your feedback is incredibly valuable to us, and we are committed to making things right for you. How can I assist you further in resolving this issue?",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I want assistance to speak with a human agent",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"We appreciate your message! It's clear to me that you are seeking assistance to speak with a human agent. Rest assured, I am here to help! To connect with a human agent, please provide me with some more information about your query or concern. This will enable me to guide you more effectively and ensure that the human agent addresses your specific needs. Your cooperation is greatly appreciated, and we are committed to providing you with the best possible support. Together, we will find a solution tailored to your requirements.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BCILPW",
+    "instruction":"I don't understand you, how could I chat with a damn person?",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"We value your outreach! I'm in tune with the fact that you're frustrated and would like to chat with a person. I apologize for any confusion or inconvenience caused so far. To connect with a human representative who can assist you further, please bear with me for just a moment. Your satisfaction is our top priority, and we're here to help!",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQZ",
+    "instruction":"want assisance to speak with an operator",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"We're all ears! I'm tuned into the idea that you are seeking assistance to speak with an operator. I'm here to help you with that. To connect you with one of our dedicated human representatives, please provide me with a little more information about your specific query or concern. This will allow me to direct you to the most suitable expert who can provide the assistance you need. Your insights are invaluable in ensuring that we address your issue efficiently. Take a moment to share the nature of your request, and we'll promptly connect you with the right person. We appreciate your patience and look forward to resolving your concern.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I want help to contact an assistant",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"We're here to help! I take note that you want help to contact an assistant. I'm here to assist you in finding the best way to connect with one of our knowledgeable representatives. Could you please provide me with some additional information about the type of assistance you require? By understanding your specific needs, I can guide you towards the most suitable channel for contacting our assistant. Your input is highly valuable in ensuring a seamless and efficient interaction. While I gather more details, please bear with me for a moment. We're committed to resolving your query and assisting you every step of the way.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I don't know how I can speak to a human agent",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"We value your outreach! I'm in tune with the fact that you are unsure about how to speak to a human agent. It's important to us that you receive the personalized assistance you need. Don't worry, I'm here to help! To connect with a human agent, you can try the following options:\n1. Look for a \"Contact Us\" or \"Support\" section on our website, where you may find phone numbers or live chat options.\n2. Check if there is a dedicated customer service email address mentioned on our website.\n3. Reach out to us on social media platforms like Facebook or Twitter, as we often have customer support channels available there.\n4. Look for any self-service options first, as these may help answer your questions without the need to speak directly with an agent.\nPlease let me know if you need any further assistance. We're committed to resolving your concerns.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BIPZ",
+    "instruction":"would it be possible to comtact an agent?",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Thank you for reaching out! I completely understand that you're requesting to connect with an agent. We have a dedicated team of experts who are ready to assist you. Allow me to quickly transfer you to one of our agents who can provide personalized support. Please hold on for a moment while I make the connection.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILZ",
+    "instruction":"can you help me speak with  somebody?",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"I hear you! I'm following you that you need assistance in speaking with somebody. Our team is here to help you every step of the way, and we'll make sure to connect you with the right person who can address your concerns. Please bear with me for a moment while I find the best representative to assist you.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"i need assistance to talk to somebody",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Grateful for your contact! I get the sense that you need assistance and would like to talk to somebody. Rest assured, I'm here to help. Could you please provide me with a bit more information about the issue you're facing? This will help me better understand your needs and ensure that I can connect you with the most suitable agent who can provide you with the assistance you require. Your satisfaction is our top priority, and we're committed to resolving your concerns as quickly and efficiently as possible.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"assistance to talk to somebody",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"It's great to hear from you! I can see that you need assistance to talk to somebody. Our team of dedicated human representatives is here to help you. Let me quickly connect you with the right person who will be able to assist you further. Please hold on for a moment while I transfer you.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BI",
+    "instruction":"how can I contact an agent?",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Grateful for your contact! I get the sense that you are looking for ways to contact an agent. We have several options available for you to reach out to our team. You can contact our customer support hotline at +33 5 56 00 00 00, or you can visit our website and engage in a live chat with one of our representatives. Alternatively, you can send us an email at support@my-awesome-shop.com or reach out to us via social media platforms such as Facebook or Twitter. We strive to provide prompt assistance through any of these channels. Let me know which option works best for you, and I'll be happy to guide you further.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I want help to speak to somebody",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"It's great to hear from you! I can see that you are looking for assistance and would like to speak to somebody. Our team of dedicated representatives is here to help you. Please bear with me for a moment while I connect you to the most suitable agent who can address your concerns. Your patience is greatly appreciated as we work to ensure you receive the personalized assistance you need.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I can't talk with a person",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Thank you for reaching out! I understand your frustration with not being able to speak with a person. Our team is here to assist you, and I apologize for any inconvenience caused. Let me swiftly connect you with a human agent who can help address your concerns. Please bear with me for a moment while I make this happen. Your satisfaction and peace of mind are important to us, and we appreciate your patience.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLZ",
+    "instruction":"I don't know how to speak with a humnan agent",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Thank you for trusting us! I'm fully aware of you're unsure about the process of speaking with a human agent. Allow me to guide you through the steps so that you can connect with the right person for assistance. To speak with a human agent, you can try the following options:\n\n1. Look for a \"Contact Us\" or \"Support\" link on our website. Click on it, and you may find different ways to reach out, such as phone numbers or live chat.\n\n2. Check the \"Help\" section on our website or app. There, you'll find relevant FAQs, guides, or tutorials that may address your concerns. If you can't find a satisfactory answer, they often provide contact information for customer support.\n\n3. If you are using our mobile app, look for a \"Support\" or \"Chat\" option within the app's settings or menu. This may provide a direct way to chat with a representative for immediate assistance.\n\n4. Consider sending an email to our support team. Look for our support email address on our website or app, compose your message explaining your issue in detail, and our team will get back to you.\n\nRest assured, we are here to help you through this process. If you encounter any difficulties or need further assistance, please feel free to let me know.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BCIL",
+    "instruction":"I need to talk to a live agent, can I get some help?",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"It's great to hear from you! I can see that you need assistance and would like to talk to a live agent. Rest assured, I'm here to help you find the right support. Before I connect you, may I know the nature of your query or concern? This will ensure that the agent addressing your needs is fully prepared and equipped with the relevant information. Take a moment to provide some details, and we'll get you the help you need.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I need to chat with an assistant",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"We're listening! I'm keyed into the fact that you need to chat with an assistant. Our team of dedicated representatives is always ready to assist you. To connect with an assistant through our chat service, please visit our website at https:\/\/my-awesome-shop.com and look for the chat icon in the bottom corner. Simply click on it, and you will be connected with a live assistant who will be happy to help you with any questions or concerns you may have. We value your time and are committed to providing you with the best support experience.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BZ",
+    "instruction":"I don't know how to contact an asgent",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Thanks for getting in touch! I grasp that you're unsure about how to contact an agent. I'm here to help! To contact an agent, you can try the following options:\n1. Check if there is a \"Contact\" or \"Support\" page on our website, where you can find contact information or a live chat option.\n2. Look for a \"Help\" or \"Support\" button within our mobile app or software.\n3. Call our customer support hotline at +33 5 56 00 00 00. Our agents are available to assist you.\n\nIf none of these options work, please provide me with some more details about your query, and I'll do my best to guide you in the right direction. Remember, your satisfaction is our top priority!",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"wanna chat with a person",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Honored to assist! I'm clued in that you would like to chat with a person. Our customer support team is here to assist you. Please allow me a moment to connect you with one of our dedicated representatives who will be happy to help you further.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I don't know how to speak with a human agent",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Honored to assist! I'm clued in that you're unsure about the process to speak with a human agent. Let me guide you through the steps to connect with one. First, please look for the \"Contact Us\" section on our website. There, you'll find the available contact options such as phone, email, or live chat. If you prefer phone support, note down the customer support number or click on the provided link to initiate a call. In case you prefer live chat, click on the chat icon, and a representative will assist you shortly. If you prefer email, fill out the contact form with your query, and our team will respond promptly. Feel free to let me know if you need any further guidance along the way. We're here to help!\"",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLW",
+    "instruction":"I try to contact a fucking operator",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"I hear you! I'm following you that you are trying to contact a customer service representative. I apologize for any frustrations you may have experienced. Our team is here to assist you, and we appreciate your patience. To ensure the best support, please provide some details about the issue you're facing, and I'll do my best to guide you through the process of contacting our operator. Your satisfaction is our top priority. Let's work together to resolve this matter and connect you with the right person to address your concerns.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"B",
+    "instruction":"I don't know how to contact an agent",
+    "category":"CONTACT",
+    "intent":"contact_human_agent",
+    "response":"Thanks for getting in touch! I grasp that you're unsure about how to contact an agent, and I'm here to guide you. To initiate contact with one of our helpful agents, you can try one of the following methods:\n\n1. Phone Support: Our customer support helpline, available at +33 5 56 00 00 00, is an excellent option for speaking directly with an agent. They will be able to assist you promptly and address any queries you may have.\n\n2. Live Chat: You can reach out to our support team through the Live Chat feature on our website at https:\/\/my-awesome-shop.com. This enables real-time communication with an agent who can provide immediate assistance.\n\n3. Email: If you prefer written communication, you can send an email to our support team at support@my-awesome-shop.com. Be sure to mention your specific query or concerns, and our agents will respond as soon as possible.\n\n4. Social Media: Another way to get in touch with us is through our official social media channels. You can send us a direct message or leave a comment, and our team will be there to assist you.\n\nI hope these options help you connect with an agent. If you have any further questions or need additional support, please don't hesitate to let me know.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILZ",
+    "instruction":"canyou help me get a compensation?",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've got that you're seeking assistance to obtain compensation, and I'm here to help. Compensation is an important aspect to address when you feel you've been inconvenienced or dissatisfied with a product or service. To best assist you, could you kindly provide more details about the specific situation that requires compensation? This will enable me to provide you with the most suitable guidance and resolution. Rest assured, I will work diligently to ensure you're informed and supported throughout the process of obtaining compensation.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BKM",
+    "instruction":"refund 24.80 dollars",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I appreciate that you're requesting a refund of $24.80. Please allow me a moment to review your account information and verify the details of your refund request. While I do that, I want to assure you that I'll do my best to expedite this process for you and provide a resolution as soon as possible. Thank you for your patience.",
+    "expected":{
+      "refund_amount":24.8
+    }
+  },
+  {
+    "flags":"BELM",
+    "instruction":"I do not know what to do to get compensations",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I realized that you're unsure about the necessary steps to take in order to obtain compensation. Rest assured, I'm here to guide you through the process. To start, it's important to gather all relevant information regarding the incident or issue that qualifies you for compensation. This could include invoices, receipts, or any other supporting documents. Once you have gathered the necessary information, you can reach out to the appropriate department or company representative responsible for handling compensation requests. They will be able to provide you with the specific instructions and requirements for filing a compensation claim. If you're unsure of how to contact the relevant department or representative, I would be more than happy to assist you further by providing the appropriate contact information or guiding you through the process step by step. Remember, seeking compensation is your right as a customer, and I'm here to ensure you receive the assistance you need to navigate this process successfully.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BKLMZ",
+    "instruction":"rebating  349.10 dollars",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've deduced from your message that you would like to receive a rebate of $349.10. I apologize for any inconvenience you may have experienced in regard to this matter. To assist you further, could you please provide me with some additional details about the situation? Specifically, I would like to know the reason for the rebate request and any relevant order or transaction numbers. This information will enable me to better understand your situation and provide you with the appropriate guidance for resolving the issue. Thank you for your cooperation, and I look forward to assisting you in resolving this matter promptly.",
+    "expected":{
+      "refund_amount":349.1
+    }
+  },
+  {
+    "flags":"BILM",
+    "instruction":"is it possible to obtain rebates?",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I'm aware that you're curious about the possibility of obtaining rebates. Allow me to clarify that our company indeed offers a refund policy to ensure customer satisfaction. If you are eligible for a rebate, we will certainly assist you in the process. To proceed, could you please provide me with more details regarding your specific purchase or situation? This will enable me to offer you accurate guidance tailored to your needs. Rest assured, our aim is to make your refund experience as smooth and hassle-free as possible.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I want assistance receiving a refund of my money",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I grasp that you're seeking assistance in receiving a refund for your money. It can be frustrating and stressful when you encounter a situation that warrants a refund request. Rest assured, I'm here to guide you through the process and ensure a satisfactory resolution. To better assist you, could you please provide some more details about your purchase and the reason for the refund? With this information, I'll be able to provide you with the most appropriate steps to follow, keeping you informed and empowered throughout the process. Remember, your satisfaction is our priority, and I'm committed to helping you every step of the way.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BELMQ",
+    "instruction":"i do not know what to do to get reimbursements",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've been informed that you're unsure about what steps to take to obtain reimbursements. I'm here to assist you with that. To begin, could you please provide me with some more information about the situation? Specifically, I would like to know if you've already made a purchase or if you have a specific refund policy that you're looking to follow. Once I have a better understanding, I can guide you through the necessary actions to initiate the reimbursement process successfully. Remember, your satisfaction is our top priority, and I'm here to help you with every step along the way.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BMQZ",
+    "instruction":"need assistance getting refunds of moey",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've picked up that you require assistance in obtaining refunds for your money. I want you to know that your concern is valid and I'm here to help you throughout the process. To begin with, could you please provide more information about the specific situation you are facing? This will enable me to guide you effectively and provide you with the most suitable solution. Rest assured, I have the expertise to navigate this issue and ensure you receive the refund you deserve.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"want help to get a rebate of my money",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I'm aware that you are seeking assistance in obtaining a rebate for your money. Rest assured, I'm here to help you with this process. To initiate a refund, I recommend reaching out to the company or organization from which you made the purchase. They will have specific procedures and guidelines in place for handling rebate requests. It's important to provide them with all the necessary information, such as your purchase details, payment method, and any supporting documentation. This will facilitate a smooth and efficient resolution to ensure you receive the rebate you're entitled to. If you need any further guidance or have additional questions, please don't hesitate to ask.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILMQ",
+    "instruction":"can uhelp me getting reimbursements of my money",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I appreciate your reaching out to us for assistance in obtaining reimbursements for your money. Rest assured, I'm here to guide and support you throughout this process. To ensure we proceed in the most effective manner, could you kindly provide some more details about your situation? Sharing additional information will help us tailor our approach to best meet your needs and work towards a satisfactory resolution. Your trust in us is greatly appreciated, and together, we will work towards securing the reimbursements you deserve.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BIL",
+    "instruction":"where to get a rebate?",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I gather that you're looking for information on where to get a rebate. To provide you with the most accurate guidance, could you please specify what type of rebate you are referring to? Is it a rebate on a product purchase, a rebate for a service, or a rebate from a specific company? Once I have more details, I can direct you to the appropriate channels or resources where you can avail the rebate.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BCIM",
+    "instruction":"I paid €20.97 for a product, is it possible to get a refund?",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"Thank you for reaching out to us regarding your recent purchase. I understand that you paid $20.97 for a product and you're wondering if it's possible to get a refund. I'm here to assist you with that. To provide you with the best possible resolution, could you please provide me with your order number or any other relevant details about your purchase? This information will help me locate your transaction and guide you through the refund process. Rest assured that we value your satisfaction and will do everything we can to ensure a smooth refund experience.",
+    "expected":{
+      "refund_amount":20.97
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"i want assistance asking for a reimbursement of my money",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've become conscious that you're seeking assistance in asking for a reimbursement of your money. I apologize for any inconvenience caused by the need for such a request. Rest assured, I'm here to help you navigate through this process. To ensure we can proceed with the necessary steps, could you kindly provide me with more details about the situation? This information will enable me to offer you tailored guidance and support, ensuring a smooth and satisfactory resolution. Thank you for your understanding and cooperation.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I have got to obtain a reimbursement",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've ascertained that you are seeking assistance in obtaining a reimbursement. Reimbursements are processed through our customer support team, and I can guide you through the necessary steps. To begin, please provide me with some information about your purchase, such as the order number or the date of purchase. This will help me determine the appropriate course of action and provide you with accurate guidance.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLMQZ",
+    "instruction":"i need assistance asdking for compensations",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I grasp that you need assistance in asking for compensations. I'm here to help you navigate through the process and provide you with the guidance you need. Could you please provide me with more details about the specific situation or issue you're facing? This will help me offer you the most appropriate advice and ensure that you're well-informed about the steps you can take to ask for compensations. Remember, I'm dedicated to assisting you every step of the way, and together we can work towards a satisfactory resolution.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"i have got to obtain a rebate of my money",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I gather that you're looking to obtain a rebate for your money. Our company values customer satisfaction and I'm here to assist you in this process. To initiate the refund, it would be helpful to have some additional information. Could you please provide me with the order number, purchase date, and any relevant details about the product or service you'd like to request a rebate for? With these details, I can look into your request and guide you through the necessary steps to obtain the refund successfully. Rest assured, I'm fully committed to ensuring you receive the assistance you need throughout this process. Let's work together to resolve this issue and address your concerns in the best possible way.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLMQ",
+    "instruction":"need help obtaining rebates",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've deduced from your message that you need assistance in obtaining rebates. Rebates can be a great way to save money, and I'm here to help you navigate through the process. To get started, could you please provide me with some more details about the specific rebates you are looking for? This will allow me to offer you the most accurate guidance and ensure a smooth experience. Together, we'll work towards obtaining the rebates you're entitled to.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BILQ",
+    "instruction":"how do i demand a compensation of money",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've picked up that you're seeking guidance on how to demand compensation for the money you believe you're entitled to. In order to proceed, it would be helpful if you could provide me with some more details about the situation. Could you please share the specific circumstances surrounding the incident that led to your request for compensation? This will allow us to determine the most appropriate course of action and ensure that your concerns are addressed in a fair and satisfactory manner. Rest assured, I'm here to support you throughout this process and ensure that your needs are met.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"wanna obtain a reimbursement of money",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I've deduced from your message that you're seeking guidance on obtaining a reimbursement for your money. Rest assured, I'm here to assist you in navigating the process smoothly. To begin, could you please provide me with more details about your purchase, such as the order number or any relevant information? This will help me understand your situation better and guide you towards the most appropriate solution. Remember, your satisfaction is our top priority, and I'm committed to ensuring a fair resolution for you.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"help asking for a compensation",
+    "category":"REFUND",
+    "intent":"get_refund",
+    "response":"I can relate to the understanding that you're seeking guidance on how to ask for compensation, and I'm here to assist you throughout this process. Asking for compensation can be a delicate matter, and it's essential to approach it in a respectful and professional manner. To help you get started, I recommend gathering all the necessary information about the incident that led to your request for compensation. This includes any relevant documents, receipts, or records that can support your claim. Once you have the required documentation, it's important to reach out to the appropriate party, such as the company or organization responsible for the issue. Clearly and concisely explain the situation, highlighting the reasons why you believe you deserve compensation. Make sure to maintain a calm and courteous tone throughout your communication, as this can greatly influence the outcome. If you encounter any challenges or need further assistance during this process, please don't hesitate to reach out to me. Together, we can work towards a satisfactory resolution.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BK",
+    "instruction":"checking status of order 22",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Your input is valuable! I'm picking up that you would like to check the status of your order with order number 22. To provide you with accurate and up-to-date information, I recommend visiting the ''Order status'' section on our website. There, you will be able to track the progress of your order and see its current status. If you have any other questions or need further assistance, please feel free to ask. I'm here to help!",
+    "expected":{
+      "order_id":22
+    }
+  },
+  {
+    "flags":"BKL",
+    "instruction":"locating order 125",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Thank you for trusting us! I'm fully aware of you would like assistance in locating your order with the order number 125. To help you with that, could you please provide me with your account details or the email address associated with your purchase? Once I have that information, I will be able to assist you further in finding the status and details of your order.",
+    "expected":{
+      "order_id":125
+    }
+  },
+  {
+    "flags":"BE",
+    "instruction":"I do not know how to track order 195",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"I'm sorry to hear that you are having trouble tracking order 195. Tracking orders is an important part of the purchasing process, and I'm here to assist you. To track your order, you can visit our website and navigate to the \"Order History\" or \"Track Order\" section. You may be prompted to enter the order number, which in this case is 195. If you encounter any difficulties or need further guidance, please don't hesitate to let me know. I'm committed to helping you find the information you need to track your order successfully.",
+    "expected":{
+      "order_id":195
+    }
+  },
+  {
+    "flags":"BCLQ",
+    "instruction":"i have to locate purchase 197 i need assistance",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Thank you for getting in touch with us! I understand that you require assistance in locating your purchase with the purchase number 197. I'm here to help you with that. To help me assist you better, could you please provide me with some additional details, such as the platform or website where you made the purchase? Once I have this information, I can guide you on how to find the location of your purchase. If you have any other questions or concerns, feel free to let me know. Your satisfaction is my top priority!",
+    "expected":{
+      "order_id":197
+    }
+  },
+  {
+    "flags":"BKL",
+    "instruction":"locating purchase 33",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Thank you for trusting us! I'm fully aware of you are looking for assistance in locating your purchase with the purchase number 33. To help you with this, could you please provide me with some additional information such as the platform or website where you made the purchase? This will allow me to guide you more effectively in finding the location of your purchase.",
+    "expected":{
+      "order_id":33
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"i need assistance checking the ETA of the purchase 122",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"We value your outreach! I'm in tune with the fact that you need assistance in checking the estimated time of arrival (ETA) for your purchase with the purchase number 122. Our team is here to help you with that.\n\nTo check the ETA of your purchase, you can visit the ''Track my order'' section on our website. It will provide you with the most up-to-date information on your order's expected delivery date.\n\nIf you have any other questions or need further assistance, please feel free to ask. We are dedicated to ensuring that you have a smooth and worry-free shopping experience!",
+    "expected":{
+      "order_id":122
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"I'm trying to see the current status of order 43",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Thank you for getting in touch! I understand that you're looking to check the current status of your order with the order number 43. To view the status of your order, please visit the ''Order status'' section on our website. This will provide you with real-time updates on the progress of your order. If you have any other questions or need further assistance, feel free to let me know. I'm here to help you every step of the way!",
+    "expected":{
+      "order_id":43
+    }
+  },
+  {
+    "flags":"B",
+    "instruction":"I need help checking the ETA of order 136",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"We appreciate your message! It's clear to me that you would like assistance in checking the estimated time of arrival (ETA) for your order with order number 136. I'm here to provide you with the information you need. To view the ETA of your order, you can visit the '136' section on our website or log in to your account and navigate to the ''Manage my orders'' page. If you have any further questions or need additional support, please feel free to ask. I'm here to help!\"",
+    "expected":{
+      "order_id":136
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"wanna check purchase 109 status",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"I hear you! I'm following you that you would like to check the status of your purchase with the purchase number 109. To assist you with that, could you please provide me with your order number? With this information, I will be able to locate your purchase and provide you with the most accurate and up-to-date status.",
+    "expected":{
+      "order_id":109
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"I have to see the status of purchase 139",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"We value your outreach! I'm in tune with the fact that you need to check the status of your purchase with the purchase number 139. To assist you with this, please visit the ''Order status'' section on our website. There, you'll find the most up-to-date information regarding the status of your purchase. If you have any further questions or need additional support, please feel free to let me know. I'm here to help!",
+    "expected":{
+      "order_id":139
+    }
+  },
+  {
+    "flags":"BILQ",
+    "instruction":"can i check order 183 current status",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Thank you for reaching out! I'm here to assist you in checking the current status of order number 183. To do so, please visit the ''Track my order'' section on our website. If you have any other questions or need further assistance, please feel free to ask. My main objective is to ensure you have a smooth and satisfactory experience.",
+    "expected":{
+      "order_id":183
+    }
+  },
+  {
+    "flags":"BK",
+    "instruction":"track order 103",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Happy to hear from you! I truly understand that you would like assistance in tracking order number 103. To provide you with the most up-to-date information, could you please provide me with your name and email address associated with the order? Once I have this information, I will be able to provide you with the status of your order and any additional details you may require.",
+    "expected":{
+      "order_id":103
+    }
+  },
+  {
+    "flags":"BL",
+    "instruction":"assistance to see the status of order 167",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Happy to hear from you! I truly understand that you need assistance in checking the status of your order with order number 167. To view the current status, I recommend visiting the ''Manage my orders'' section on our website. There, you will find detailed information about the progress of your order. If you have any further questions or need additional support, feel free to let me know. I'm here to help you every step of the way towards a seamless experience!",
+    "expected":{
+      "order_id":167
+    }
+  },
+  {
+    "flags":"BK",
+    "instruction":"order 113 status",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Thanks for getting in touch! I grasp that you would like to check the status of your order with number 113. To help you, could you please provide me with the email address or phone number associated with your order? This information will allow me to locate your order and provide you with an accurate update on its status. Your satisfaction is my top priority, and I'm here to assist you every step of the way!",
+    "expected":{
+      "order_id":113
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"i dont know how i can check the eta of my last delivery",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Your reach-out is appreciated! I'm sensing that you need assistance with checking the Estimated Time of Arrival (ETA) for your last delivery. To provide you with the most accurate information, I kindly ask you to provide me with the order number or any other relevant details regarding your last delivery. Once I have this information, I will be able to guide you through the process step by step. Your satisfaction is my priority, and I'm here to ensure you have a seamless experience.",
+    "expected":{
+
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"help me to check the ETA of the order 64",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Thank you for reaching out! I'm here to help you check the estimated time of arrival (ETA) for your order with the order number 64. To provide you with accurate information, may I please have your email address or phone number associated with the order? This way, I can quickly access and track the status of your order for you. Rest assured that your details will remain securely confidential.",
+    "expected":{
+      "order_id":64
+    }
+  },
+  {
+    "flags":"BLQ",
+    "instruction":"need assistance locating purchase 17",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"We're all ears! I'm tuned into the idea that you need assistance locating your purchase with the purchase number 17. Let me help you with that. To find the details and status of your purchase, please visit the ''Purchase history'' section on our website. It should provide you with all the information you need. If you have any other questions or need further assistance, please feel free to ask. I'm here to help!",
+    "expected":{
+      "order_id":17
+    }
+  },
+  {
+    "flags":"BQZ",
+    "instruction":"want asistance checking the eta of the order 6",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Happy to hear from you! I truly understand that you would like assistance checking the estimated time of arrival (ETA) for your order with order number 6. To provide you with the most accurate information, I kindly request you to provide me with a few more details such as your name and contact information. Once I have that, I will be able to assist you further in tracking your order and providing you with the ETA.",
+    "expected":{
+      "order_id":6
+    }
+  },
+  {
+    "flags":"BLQZ",
+    "instruction":"want hewlp locating order 151",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"Your reach-out is appreciated! I'm sensing that you need assistance locating order number 151. I'm here to help you with that. To locate your order, please provide me with your full name and contact information so that I can access your account and provide you with the relevant details. Rest assured, I will guide you through the process and ensure that you have a seamless experience.",
+    "expected":{
+      "order_id":151
+    }
+  },
+  {
+    "flags":"BLW",
+    "instruction":"I need assistance seeing purchase 2 bloody status",
+    "category":"ORDER",
+    "intent":"track_order",
+    "response":"It's great to hear from you! I can see that you need assistance in checking the status of your purchase with the order number 2. I apologize for any inconvenience caused by the delayed response. Our team is actively working on resolving the issue. To provide you with the most accurate information regarding the status of your purchase, I kindly request you to bear with us while we investigate the matter. Rest assured, we value your satisfaction and are committed to keeping you updated every step of the way. If you have any further questions or concerns, please feel free to let me know. Your patience is greatly appreciated.",
+    "expected":{
+      "order_id":2
+    }
+  }
+]
