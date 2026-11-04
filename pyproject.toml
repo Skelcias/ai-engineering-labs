@@ -1,0 +1,26 @@
+[project]
+name = "ai-engineering-labs"
+version = "0.1.0"
+description = "Hands-on labs to learn AI engineering by building: workflow patterns, agents, tool design, evals, RAG, MCP. One concept per lab, measured results."
+readme = "README.md"
+authors = [
+    { name = "artrobert", email = "arthurrobert05@outlook.fr" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=5.1.0",
+]
+
+[project.scripts]
+ai-engineering-labs = "ai_engineering_labs:main"
+
+[build-system]
+requires = ["uv_build>=0.12.22,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "requests>=2.34.2",
+]
