@@ -72,7 +72,7 @@ def build_expected(row):
 def main():
     rng = random.Random(SEED)
     df_final = df_smaller.copy()
-    file_path = Path(__file__).parent / "carts.json"
+    file_path = Path(__file__).parent.parent / "data" / "carts.json"
     carts = json.loads(file_path.read_text(encoding="utf-8"))
     df_final["values"] = [
         {**SHOP, **draw_row_values(rng.choice(carts), rng=rng)}

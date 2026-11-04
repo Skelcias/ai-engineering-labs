@@ -20,7 +20,7 @@ filtered_data = [
     }
     for c in r.json()["carts"]
 ]
-output_dir = Path("data")
+output_dir = Path(__file__).parent.parent / "data"
 output_dir.mkdir(exist_ok=True)
 file_path = output_dir / "carts.json"
 
